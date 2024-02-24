@@ -1,0 +1,142 @@
+{
+    "main": {
+        "name":"Mizar Ismu Arief",
+        "description":"Cyber Security Entusias | IoT Engineer | Web Developer | SysAdmin | Linux Lovers",
+        "github":"https://github.com/mzrismuarf",
+        "project":"https://github.com/mzrismuarf",
+        "bio":"Seseorang yang menyukai beberapa bidang di IT, seperti Cyber Security, IoT atau Robotik, Web Developer, Administrator Jaringan (SysAdmin), dan Juga menyukai Linux OS",
+        "image":"profilepic.jpg",
+        "contactmessage":"Hello, here I am",
+        "email": "mzrismuarf@gmail.com",
+        "address":{
+            "city":"Ciamis",
+            "state":"Jawa Barat"
+        },
+        "website": "https://github.com/mzrismuarf",
+        "resumedownload":"https://github.com/mzrismuarf",
+        "social":[
+            {
+              "name": "facebook",
+              "url": "https://facebook.com/mizar.mizar.52090",
+              "className": "fa fa-facebook"
+            },
+            {
+              "name":"twitter",
+              "url":"https://twitter.com/mzrismuarf",
+              "className":"fa fa-twitter"
+            },
+            {
+              "name":"linkedin",
+              "url":"https://www.linkedin.com/in/mizarismu",
+              "className":"fa fa-linkedin"
+            },
+            {
+              "name":"instagram",
+              "url":"http://instagram.com/",
+              "className":"fa fa-instagram"
+            },
+            {
+              "name":"github",
+              "url":"https://github.com/mzrismuarf",
+              "className":"fa fa-github"
+            }
+          ]                        
+    },
+    "resume":{
+        "skillmessage":"",
+        "education":[
+            {
+                "school":"Universitas Perjuangan Tasikmalaya",
+                "degree":"S1 Teknik Informatika",
+                "graduated":"2025",
+                "description":"Di kuliah saya mengikuti Unit Kegiatan Mahasiswa (UKM) Robotika, dan menjabat sebagai Ketua Departemen Pendidikan. Selain itu, kegiatan di luar kampus, saya mengikuti Pengabdian Kampus Mengajar Angakatan 5 di SD Negeri Mekarwangi Tasikmalaya."
+            },
+            {
+                "school":"SMK Negeri 1 Kawali",
+                "degree":"Teknik Komputer dan Jaringan",
+                "graduated":"2021",
+                "description":"Di sekolah saya mempelajari pemograman dasar C++, Jaringan, dan juga Sistem Operasi Linux. Selain itu, saya juga mengikuti pelatihan Cyber Security dari IDF dan lulus di CompTIA Linux+, Security+, Pentest+ tingkat Nasional. Di sekolah juga saya mengikuti organisasi EXIT (Extrakulikuler Informasi Teknologi) dengan mengambil bidang 3D Animation menggunakan software blender 3d. "
+
+            }
+        ],
+        "work":[
+            {
+                "company":"IDF Company",
+                "title":"Security Consultant",
+                "year":"Oktober - Present",
+                "description":"Deskripsi"
+            }
+        ],
+        "skills": [
+            {
+                "name" : "HTML",
+                "level": ""
+            },
+            {
+                "name" : "CSS",
+                "level": ""
+            },
+            {
+                "name" : "Javascript",
+                "level": ""
+            },                                        
+            {
+                "name" : "PHP",
+                "level": ""
+            },
+            {
+                "name": "Python",
+                "level": ""
+            },
+            {
+                "name": "Java",
+                "level": ""
+            },
+            {
+                "name": "ReactJS",
+                "level": ""
+            },
+            {
+                "name": "C++",
+                "level": ""
+            },
+            {
+                "name": "MYSQL",
+                "level": ""
+            },
+            {
+                "name": "Linux OS",
+                "level": ""
+            }                                    
+        ]     
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "SushiKu - Restaurant Japan",
+                "category": "Project UTS Pemograman Internet",
+                "image": "01.jpg",
+                "url": "https://github.com/mzrismuarf/Project-PemogramanInternet"
+            },
+            {
+                "title": "Simpel Perpustakaan",
+                "category": "Project UAS Pemograman Internet",
+                "image": "02.jpg",
+                "url": "https://github.com/mzrismuarf/Project-PemogramanInternet"
+            },                        
+            {
+                "title": "Media Pembelajaran Game",
+                "category": "Project KKN dan Kampus Mengajar",
+                "image": "03.jpg",
+                "url": "https://github.com/mzrismuarf/MediaPembelajaranGame"
+            },
+            {
+                "title":"Mini Calculator",
+                "category":"Course MySkills Javascript",
+                "image":"04.jpg",
+                "url":"https://github.com/mzrismuarf/MySkill-Project/tree/master/Mini-Calculator"
+              }
+        ]
+        
+    }
+}
